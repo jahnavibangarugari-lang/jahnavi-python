@@ -1,0 +1,11 @@
+text=" pYThon"
+print(text.upper())
+print(text.lower())
+print(text.strip())
+print(text.lstrip())
+print(text.rstrip())
+print(text)
+print(len(text))
+print(text.find('t'))
+print(text.find('o'))
+print(text.replace("pY","java"))

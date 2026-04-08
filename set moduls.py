@@ -1,0 +1,13 @@
+firstset={"east","west","south"}
+firstset.add("north")
+print(firstset)
+firstset.remove("south")
+print(firstset)
+firstset.discard("north")
+print(firstset)
+firstset.pop()
+print(firstset)
+print(len(firstset))
+print(firstset)
+firstset.clear()
+print(firstset)
